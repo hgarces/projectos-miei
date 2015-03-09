@@ -4,11 +4,11 @@ Trabalho realizado no âmbito da cadeira de Computação Gráfica e Interfaces (
 
 Funcionalidades:
 
-    - Carregamento de modelos 3D no formato [obj](http://en.wikipedia.org/wiki/Wavefront_.obj_file);
-    - Visualização do objeto em diferentes modos (wireframe, solifd fill ou solid&wireframe);
-    - Escolha entre uma única projeção ou projeções multipas;
-    - Manipulação dos valores dos parâmetros das diferentes projeções;
-    - Carregamento de imagens (bitmaps) a usar como texturas aplicadas aos polígonos do objeto a ser visualizado.
+- Carregamento de modelos 3D no formato [obj](http://en.wikipedia.org/wiki/Wavefront_.obj_file);
+- Visualização do objeto em diferentes modos (wireframe, solifd fill ou solid&wireframe);
+- Escolha entre uma única projeção ou projeções multipas;
+- Manipulação dos valores dos parâmetros das diferentes projeções;
+- Carregamento de imagens (bitmaps) a usar como texturas aplicadas aos polígonos do objeto a ser visualizado.
 
 Execução:
 
