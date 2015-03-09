@@ -1,5 +1,5 @@
 Visualizador de objetos 3D
-=====
+---
 Trabalho realizado no âmbito da cadeira de Computação Gráfica e Interfaces (2014/15)
 
 Funcionalidades:
@@ -13,11 +13,11 @@ Funcionalidades:
 Execução:
 
 Correr o seguinte comando na pasta raiz do programa:
-```sh
+```
 (UNIX)
 java -Djava.library.path="aux_libs/versao_do_OS/" -cp bin:aux_libs/jogl-all.jar:aux_libs/gluegen-rt.jar Objectos3D
 
 (WINDOWS)
 java -Djava.library.path="aux_libs/versao_do_OS/" -cp bin;aux_libs/jogl-all.jar;aux_libs/gluegen-rt.jar Objectos3D
 ```
-onde versao_do_OS é uma das pastas localizada em aux_libs, de acordo com a versão do Sistema Operativo
+onde *versao_do_OS* é uma das pastas localizada em aux_libs, de acordo com a versão do Sistema Operativo
