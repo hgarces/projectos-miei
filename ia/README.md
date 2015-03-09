@@ -6,12 +6,13 @@ Este trabalho consiste na implementação de um algoritmo de procura local para 
 
 Funcionalidades:
 Possibilidade de definir o modo de funcionamento do algoritmo, nomeadamente: 
-i) método de seleção; 
-ii) operadores de recombinação e mutação; 
-iii) critério de paragem;
-iv) forma de determinação da população inicial 
+i. método de seleção; 
+ii. operadores de recombinação e mutação; 
+iii. critério de paragem;
+iv. forma de determinação da população inicial 
 
 Execução:
+
 admitindo execução a partir do interior da pasta bin
 ```sh
 (UNIX)
